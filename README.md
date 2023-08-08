@@ -1,0 +1,2 @@
+# file_to_word
+使用tkinter作为GUI的python程序，类似邮件合并，数据源没有使用Excel，而是使用了SeaTable的API（当然换成Notion等也应该可以，本例没有使用）
